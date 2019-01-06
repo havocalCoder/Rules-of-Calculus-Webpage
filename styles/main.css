@@ -1,4 +1,19 @@
+.top {
+    
+}
+
+.nav_button {
+
+}
+
 .title_page {
-    background-color: blue;
-    margin: 25px;
+    background-color: black;
+    width: 100%;
+    height: 300px;
+    padding: 10% 25%;
+}
+
+.header_text {
+    color: white;
+    font: Arial;
 }
